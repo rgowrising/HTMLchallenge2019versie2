@@ -1,0 +1,26 @@
+div#wrapper {
+    width: 100%;
+    background-color:#ff6d74;
+    padding-left: 200px;
+}
+
+body{
+
+}
+header{
+    background-color: #ffea7b;
+    width:100%;
+    height:100%;
+    float:left;
+}
+nav{
+
+}
+article{
+    margin-top:20px;
+    margin-bottom:20px;
+    display:inline-block;
+    width:33%;
+    padding-right:10px;
+    vertical-align:top;
+}
